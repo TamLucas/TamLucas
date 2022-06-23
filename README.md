@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @TamLucas
-- 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on begginer friendly, fun projects on Python.
-- 📫 How to reach me tamlucas@gmail.com
+Hello. I'm Tamires Lucas
+**Glad to see you here!** 🙂
 
-<!---
-TamLucas/TamLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student from Houston-TX 🤠
+
+👩🏼‍🎓 I’m currently taking the classes: Introduction to Programming II (Python) and CS50P.
+💞️ I’m looking to collaborate on begginer friendly, fun projects on Python.
+📫 How to reach me: tamlucas@gmail.com

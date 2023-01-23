@@ -4,6 +4,6 @@ Hello. I'm Tamires Lucas
 
 I'm a Computer Science student from Houston-TX 🤠
 
-- 👩🏼‍🎓 I’m currently taking the classes: Programming Fundamentals II (Python) and CS50 Python.
-- 💞️ I’m looking to collaborate on begginer friendly, fun projects on Python.
+- 👩🏼‍🎓 I’m currently taking the classes: Object Oriented Programming and Design (C#) and Structure of Programming Languages.
+- 💞️ I’m looking to collaborate on begginer friendly, fun projects on C#.
 - 📫 How to reach me: tamlucas@gmail.com
